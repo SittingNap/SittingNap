@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SittingNap, aka Lukas!
-- 👀 I’m interested in digital analytics, society and the interplay between environmentalism and big data!
+- 👀 I’m interested in digital analytics, society and the interaction between environmentalism and big data!
 - 🌱 I’m currently learning more about big data and automated content analysis 
 
 <!---
