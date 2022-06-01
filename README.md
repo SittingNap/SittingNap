@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SittingNap, aka Lukas!
 - 👀 I’m interested in digital analytics, society and the interaction between environmentalism and big data!
-- 🌱 I’m currently learning more about big data and automated content analysis 
+- 🌱 I’m currently learning more about big data and automated content analysis with a strong focus on supervised and unsupervised machine learning
 
 <!---
 SittingNap/SittingNap is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
